@@ -7,7 +7,7 @@
 Luska4048/Luska4048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://user-images.githubusercontent.com/110537081/222712125-0cd599f9-5037-4324-a11a-e857f51d15d7.png)
+                                                  ![image](https://user-images.githubusercontent.com/110537081/222712125-0cd599f9-5037-4324-a11a-e857f51d15d7.png)
 
 ![image](https://user-images.githubusercontent.com/110537081/192571317-bb3d01fc-278a-4ae9-896f-c0faed13d325.png)
 ![image](https://user-images.githubusercontent.com/110537081/192568175-32aab616-b2fc-4210-8f12-281841704985.png)
